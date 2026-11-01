@@ -1,0 +1,11 @@
+id,city,type,bedrooms,bathrooms,price,description
+1,Cuttack,Apartment,2,1,50000,"Modern kitchen, balcony, quiet neighbourhood"
+2,Bhubaneswar,House,3,2,75000,"Garden, near shopping malls"
+3,Puri,Villa,4,3,100000,"Balcony, garden, quiet neighbourhood"
+4,Rourkela,Condo,1,1,30000,"Modern kitchen, near shopping malls"
+5,Berhampur,Townhouse,3,2,70000,"Balcony, garden, quiet neighbourhood"
+6,Sambalpur,Apartment,2,1,55000,"Modern kitchen, near shopping malls"
+7,Jharsuguda,House,4,3,90000,"Garden, quiet neighbourhood"
+8,Baripada,Villa,5,3,120000,"Balcony, garden, near shopping malls"
+9,Balasore,Condo,1,1,32000,"Modern kitchen, quiet neighbourhood"
+10,Paradeep,Townhouse,2,2,60000,"Balcony, garden, near shopping malls"
